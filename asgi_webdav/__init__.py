@@ -16,4 +16,4 @@ __licence__ = "MIT"
 __description__ = (
     "An asynchronous WebDAV server implementation, support multi-provider."
 )
-__project_url__ = "https://github.com/rexzhang/asgi-webdav"
+__project_url__ = "https://github.com/pic-es/webdav-webhdfs-proxy"

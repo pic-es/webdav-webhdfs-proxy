@@ -53,4 +53,4 @@ CMD [ "/app/entrypoint.sh" ]
 LABEL org.opencontainers.image.title="ASGI WebDAV Server"
 LABEL org.opencontainers.image.authors="Rex Zhang"
 LABEL org.opencontainers.image.url="https://hub.docker.com/repository/docker/ray1ex/asgi-webdav"
-LABEL org.opencontainers.image.source="https://github.com/rexzhang/asgi-webdav"
+LABEL org.opencontainers.image.source="https://github.com/pic-es/webdav-webhdfs-proxy"

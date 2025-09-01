@@ -1,10 +1,11 @@
 # Project information
 site_name: ASGI WebDAV Server
-site_url: https://rexzhang.github.io/asgi-webdav/
+site_url: https://pic-es.github.io/webdav-webhdfs-proxy/
+use_directory_urls: false
 
 # Repository
-repo_url: https://github.com/rexzhang/asgi-webdav
-repo_name: rexzhang/asgi-webdav
+repo_url: https://github.com/pic-es/webdav-webhdfs-proxy
+repo_name: pic-es/webdav-webhdfs-proxy
 
 # Configuration
 theme:
@@ -62,7 +63,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/rexzhang/asgi-webdav
+      link: https://github.com/pic-es/webdav-webhdfs-proxy
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/r/ray1ex/asgi-webdav
   analytics:
