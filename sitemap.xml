@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/index.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/index.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/changelog.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/changelog.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/changelog.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/compatibility.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/compatibility.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/compatibility.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/contributing.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/contributing.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/contributing.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/install.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/install.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/install.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/known-issues.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/known-issues.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/known-issues.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/quick-start-in-docker.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/quick-start-in-docker.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/quick-start-in-docker.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/trouble-shooting.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/trouble-shooting.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/trouble-shooting.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/guide/cors.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/guide/cors.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/cors.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/guide/multi-account.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/guide/multi-account.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/multi-account.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/guide/protect-your-password-in-the-config.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/guide/protect-your-password-in-the-config.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/protect-your-password-in-the-config.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-allow-anonymous-user.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-allow-anonymous-user.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-allow-anonymous-user.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-hide-files-in-dir-with-the-specified-client.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-hide-files-in-dir-with-the-specified-client.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-hide-files-in-dir-with-the-specified-client.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-specify-type-for-specific-file-extentions.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-specify-type-for-specific-file-extentions.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-specify-type-for-specific-file-extentions.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/provider/webhdfs.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/provider/webhdfs.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/provider/webhdfs.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/reference/cli.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/cli.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/cli.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/reference/config-file.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/config-file.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/config-file.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/reference/config.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/config.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/config.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/reference/env-value.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/env-value.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/env-value.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/reference/misc.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/misc.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/misc.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/index.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/index.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/changelog.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/changelog.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/changelog.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/compatibility.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/compatibility.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/compatibility.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/contributing.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/contributing.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/contributing.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/install.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/install.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/install.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/known-issues.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/known-issues.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/known-issues.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/quick-start-in-docker.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/quick-start-in-docker.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/quick-start-in-docker.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/trouble-shooting.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/trouble-shooting.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/trouble-shooting.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/cors.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/cors.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/guide/cors.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/multi-account.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/multi-account.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/guide/multi-account.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/protect-your-password-in-the-config.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/guide/protect-your-password-in-the-config.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/guide/protect-your-password-in-the-config.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-allow-anonymous-user.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-allow-anonymous-user.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-allow-anonymous-user.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-hide-files-in-dir-with-the-specified-client.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-hide-files-in-dir-with-the-specified-client.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-hide-files-in-dir-with-the-specified-client.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-specify-type-for-specific-file-extentions.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/howto/howto-specify-type-for-specific-file-extentions.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/howto/howto-specify-type-for-specific-file-extentions.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/provider/webhdfs.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/provider/webhdfs.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/provider/webhdfs.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/cli.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/cli.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/cli.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/config-file.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/config-file.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/config-file.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/config.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/config.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/config.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/env-value.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/env-value.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/env-value.html"/>
+    </url>
+    <url>
+        <loc>https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/misc.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://pic-es.github.io/webdav-webhdfs-proxy/zh/reference/misc.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://pic-es.github.io/webdav-webhdfs-proxy/reference/misc.html"/>
+    </url>
+</urlset>
