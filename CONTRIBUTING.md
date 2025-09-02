@@ -1,1 +1,1 @@
-Please visit [here](https://rexzhang.github.io/asgi-webdav/contributing/)
+Please visit [here](https://pic-es.github.io/webdav-webhdfs-proxy/contributing/)

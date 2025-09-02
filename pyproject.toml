@@ -27,10 +27,10 @@ classifiers = [
 dynamic = ["version", "dependencies", "optional-dependencies"]
 
 [project.urls]
-homepage = "https://github.com/rexzhang/asgi-webdav"
-documentation = "https://rexzhang.github.io/asgi-webdav/"
-repository = "https://github.com/rexzhang/asgi-webdav"
-changelog = "https://github.com/rexzhang/asgi-webdav/blob/main/docs/changelog.en.md"
+homepage = "https://github.com/pic-es/webdav-webhdfs-proxy"
+documentation = "https://pic-es.github.io/webdav-webhdfs-proxy/"
+repository = "https://github.com/pic-es/webdav-webhdfs-proxy"
+changelog = "https://github.com/pic-es/webdav-webhdfs-proxy/blob/main/docs/changelog.en.md"
 
 [project.scripts]
 asgi-webdav = "asgi_webdav.cli:main"

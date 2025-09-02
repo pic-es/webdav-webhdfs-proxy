@@ -70,7 +70,7 @@ username is `username`, password is `password`, mapping current path `.` to `htt
 ### Install
 
 ```shell
-git pull https://github.com/rexzhang/asgi-webdav.git
+git pull https://github.com/pic-es/webdav-webhdfs-proxy.git
 pip install -U -r requirements.txt
 ```
 
@@ -95,17 +95,17 @@ pip install -U -r requirements.txt
 === "macOS"
 
     ```shell
-    wget https://github.com/rexzhang/asgi-webdav/releases/download/v0.9.1/asgi-webdav-macos.zip
+    wget https://github.com/pic-es/webdav-webhdfs-proxy/releases/download/v0.9.1/asgi-webdav-macos.zip
     unzip asgi-webdav-macos.zip
     ```
 
 === "Windows"
 
     ```text
-    dl https://github.com/rexzhang/asgi-webdav/releases/download/v0.9.1/asgi-webdav.exe
+    dl https://github.com/pic-es/webdav-webhdfs-proxy/releases/download/v0.9.1/asgi-webdav.exe
     ```
 
-For other platforms or versions, please visit [GitHub Release](https://github.com/rexzhang/asgi-webdav/releases)
+For other platforms or versions, please visit [GitHub Release](https://github.com/pic-es/webdav-webhdfs-proxy/releases)
 
 ### Startup server
 
