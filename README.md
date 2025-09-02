@@ -1,5 +1,9 @@
 # ASGI WebDAV Server
 
+This repository is a fork of [ASGI-WebDAV](https://github.com/rexzhang/asgi-webdav).
+The main added feature is a proxy that allows WebDAV over WebHDFS.
+These changes are being considered for inclusion in the main repository.
+
 [![GitHub](https://img.shields.io/github/license/pic-es/webdav-webhdfs-proxy)](https://github.com/pic-es/webdav-webhdfs-proxy/blob/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/ASGIWebDAV)](https://pypi.org/project/ASGIWebDAV)
 [![PyPI - Version](https://img.shields.io/pypi/pyversions/ASGIWebDAV.svg)](https://pypi.org/project/ASGIWebDAV/)
@@ -16,7 +20,7 @@ An asynchronous WebDAV server implementation, Support multi-provider, multi-acco
 
 - [ASGI](https://asgi.readthedocs.io) standard
 - WebDAV standard: [RFC4918](https://www.ietf.org/rfc/rfc4918.txt)
-- Support multi-provider: FileSystemProvider, MemoryProvider
+- Support multi-provider: FileSystemProvider, MemoryProvider, WebHDFSProvider
 - Support multi-account and permission control
 - Support optional anonymous user
 - Support optional home directory

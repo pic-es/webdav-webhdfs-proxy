@@ -1,4 +1,8 @@
-# WebDAV over WebHDFS Proxy Documentation
+# ASGI WebDAV Server
+
+This repository is a fork of [ASGI-WebDAV](https://github.com/rexzhang/asgi-webdav).
+The main added feature is a proxy that allows WebDAV over WebHDFS.
+These changes are being considered for inclusion in the main repository.
 
 Welcome to the official documentation of the **WebDAV over WebHDFS Proxy** project.
 
